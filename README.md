@@ -5,15 +5,7 @@ Este repositorio contiene el desarrollo de una práctica de introducción a la c
 ## Contenido del repositorio
 
 - **Informe de Auditoría (PDF):**  
-  Documento principal de la práctica. Contiene los resultados finales de la auditoría, incluyendo las vulnerabilidades identificadas, su impacto, y las posibles mitigaciones propuestas.
-
-- **Bitácora (DOCX):**  
-  Documento de respaldo del informe. Registra el paso a paso de la práctica, incluyendo las acciones realizadas, pruebas ejecutadas, observaciones y evidencias obtenidas durante el proceso.
-
-## Relación entre los documentos
-
-La bitácora complementa al informe de auditoría, ya que documenta el proceso completo de trabajo.  
-El informe, por su parte, presenta una versión resumida y ordenada de los hallazgos considerados relevantes para su evaluación.
+  Documento principal de la práctica. Contiene los resultados finales de la auditoría, incluyendo las vulnerabilidades identificadas, su impacto, y las posibles mitigaciones propuestas
 
 ## Objetivo de la práctica
 
